@@ -29,6 +29,8 @@ Antivirus, performance, network, drivers, storage, hardware and Windows: everyth
 | 🧩 **Drivers** | Up-to-date drivers through Windows Update, graphics card |
 | 💾 **Storage** | Disk space, disk health, cleanup of useless files |
 | 🖥️ **Hardware** | Health of each component: PC age and usage time, processor, graphics card, memory (XMP, dual channel), SSD wear and lifespan, battery, screen refresh rate |
+| 🧯 **Stability** | Blue screens, sudden shutdowns and crashing programs over 30 days, their likely cause and what to do; one-click Windows file repair (SFC + DISM); devices with an error |
+| 🚀 **Speed test** | Speedometer gauge: download, upload and ping, with the last 10 results |
 | 🪟 **Windows** | Updates, version, pending restart |
 | 🔒 **Tools** | Software updates, privacy (webcam, microphone), app firewall, password checker |
 

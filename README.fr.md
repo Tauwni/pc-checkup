@@ -29,6 +29,8 @@ Antivirus, performances, réseau, pilotes, stockage, matériel et Windows : tout
 | 🧩 **Pilotes** | Pilotes à jour via Windows Update, carte graphique |
 | 💾 **Stockage** | Espace disque, santé des disques, nettoyage des fichiers inutiles |
 | 🖥️ **Matériel** | Santé de chaque composant : âge et temps d'utilisation du PC, processeur, carte graphique, mémoire (XMP, double canal), usure et durée de vie des SSD, batterie, fréquence des écrans |
+| 🧯 **Stabilité** | Écrans bleus, arrêts brutaux et logiciels qui plantent sur 30 jours, leur cause probable et quoi faire ; réparation des fichiers de Windows en un clic (SFC + DISM) ; périphériques en erreur |
+| 🚀 **Test de débit** | Compteur de vitesse : téléchargement, envoi et ping, avec les 10 derniers résultats |
 | 🪟 **Windows** | Mises à jour, version, redémarrage en attente |
 | 🔒 **Outils** | Mises à jour des logiciels, confidentialité (webcam, micro), pare-feu des applis, vérification des mots de passe |
 
