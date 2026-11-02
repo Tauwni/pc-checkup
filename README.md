@@ -31,6 +31,8 @@ Antivirus, performance, network, drivers, storage, hardware and Windows: everyth
 | 🖥️ **Hardware** | Health of each component: PC age and usage time, processor, graphics card, memory (XMP, dual channel), SSD wear and lifespan, battery, screen refresh rate |
 | 🧯 **Stability** | Blue screens, sudden shutdowns and crashing programs over 30 days, their likely cause and what to do; one-click Windows file repair (SFC + DISM); devices with an error |
 | 🚀 **Speed test** | Speedometer gauge: download, upload and ping, with the last 10 results |
+| 📄 **HTML report** | A good-looking report in the app's style (logo, overall state, every result explained, stability, hardware) that opens in your browser |
+| 🔎 **Search & tidy menu** | Collapsible sidebar groups and a search box (Ctrl+F); live CPU, memory, GPU and drive temperatures on the Hardware page |
 | 🪟 **Windows** | Updates, version, pending restart |
 | 🔒 **Tools** | Software updates, privacy (webcam, microphone), app firewall, password checker |
 

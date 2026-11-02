@@ -31,6 +31,8 @@ Antivirus, performances, réseau, pilotes, stockage, matériel et Windows : tout
 | 🖥️ **Matériel** | Santé de chaque composant : âge et temps d'utilisation du PC, processeur, carte graphique, mémoire (XMP, double canal), usure et durée de vie des SSD, batterie, fréquence des écrans |
 | 🧯 **Stabilité** | Écrans bleus, arrêts brutaux et logiciels qui plantent sur 30 jours, leur cause probable et quoi faire ; réparation des fichiers de Windows en un clic (SFC + DISM) ; périphériques en erreur |
 | 🚀 **Test de débit** | Compteur de vitesse : téléchargement, envoi et ping, avec les 10 derniers résultats |
+| 📄 **Rapport HTML** | Un beau rapport aux couleurs du logiciel (logo, état général, chaque résultat expliqué, stabilité, matériel) qui s'ouvre dans le navigateur |
+| 🔎 **Recherche et menu rangé** | Groupes repliables dans le menu et barre de recherche (Ctrl+F) ; processeur, mémoire, températures de la carte graphique et des disques en direct dans « Matériel » |
 | 🪟 **Windows** | Mises à jour, version, redémarrage en attente |
 | 🔒 **Outils** | Mises à jour des logiciels, confidentialité (webcam, micro), pare-feu des applis, vérification des mots de passe |
 
